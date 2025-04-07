@@ -12,7 +12,7 @@ using PromotionBannerManagement;
 namespace PromotionBannerManagement.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250407181811_Added Company and Banner table")]
+    [Migration("20250407191406_Added Company and Banner table")]
     partial class AddedCompanyandBannertable
     {
         /// <inheritdoc />
